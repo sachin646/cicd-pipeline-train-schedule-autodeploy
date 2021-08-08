@@ -1,7 +1,7 @@
 ---
 - hosts: kslave1
   become: true
-  become_user: root
+  become_user: edureka
   tasks:
   - name: Install docker
     yum: name=docker state=present
