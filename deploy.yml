@@ -1,5 +1,5 @@
 ---
-- hosts: agent
+- hosts: kslave1
   become: true
   become_user: edureka
   tasks:
