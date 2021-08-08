@@ -1,2 +1,2 @@
 [kslave1]
-edureka@172.31.24.157 ansible_user=root
+172.31.24.157 ansible_user=root
